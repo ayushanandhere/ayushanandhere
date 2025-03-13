@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and integrating AI/ML into web development**
 
-- 📫 How to reach me **ayushanand8575@gmail.com**
+- 📫 Reach me **ayushanand8575@gmail.com** or **ayushanandci008@gmail.com**
 
 - ⚡ Fun fact **⚡ I enjoy solving complex coding problems and bringing innovative features to life through web applications.**
 
