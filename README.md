@@ -1,27 +1,129 @@
-<h1 align="center">Hi 👋, I'm Ayush Anand</h1>
-<h3 align="center">A passionate full-stack developer passionate about Artificial Intelligence and Machine Learning.</h3>
+<h1 align="center">Ayush Anand</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Practitioner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushanandhere&label=Profile%20views&color=0e75b6&style=flat" alt="ayushanandhere" /> </p>
-
-- 🌱 I’m currently learning **Advanced backend development techniques, cloud-based architectures, and AI-powered features for web applications**
-
-- 👯 I’m looking to collaborate on **Open-source projects in AI and full-stack development**
-
-- 🤝 I’m looking for help with **Scaling complex applications and incorporating AI-driven features into web projects**
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, and integrating AI/ML into web development**
-
-- 📫 Reach me at **ayushanand8575@gmail.com** or **ayushanandci008@gmail.com**
-
-- ⚡ Fun fact **⚡ I enjoy solving complex coding problems and bringing innovative features to life through web applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushanandhere&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushanandhere&show_icons=true&locale=en&layout=compact" alt="ayushanandhere" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushanandhere&show_icons=true&locale=en" alt="ayushanandhere" /></p>
+I’m a recent graduate in Computer Science & Engineering (AI & ML) from **Ramaiah Institute of Technology**, passionate about building scalable, real-world web platforms. I specialize in full-stack development, with experience ranging from modern frontend interfaces to secure, scalable backend systems and DevOps practices. I’ve also worked on integrating AI/ML capabilities into production-grade applications.
+
+My recent internship at **Oracle** involved engineering enterprise web solutions using Oracle APEX, optimizing SQL performance, and working within Agile cloud environments. Previously, I contributed as an extern at **AlgoUniversity (Y-Combinator-backed)**, where I engineered a secure online judge platform using Docker and scalable backend architecture.
+
+---
+
+## 📊 Key Highlights
+
+| Category | Details |
+|---------|---------|
+| 🧠 **Education** | B.E. in CSE (AI & ML), RIT Bengaluru, CGPA: 9.73/10 |
+| 💻 **Internships** | Oracle (SDE Intern), AlgoUniversity (Software Extern) |
+| 🧪 **Projects** | 8+ full-stack and systems projects, including AI-based platforms |
+| 🏆 **Programming** | ICPC Regionalist (2024), Codeforces Expert (Max 1804), CodeChef 4⭐ (Max 1987) |
+| 📂 **Repositories** | 35+ Public Projects & Utilities |
+| 🔗 **Tech Stack** | MERN, Docker, PostgreSQL, PyTorch, GraphQL, JWT, WebRTC |
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx" />
+</p>
+
+### Machine Learning & AI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-blue?style=flat&logo=github-actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman" />
+</p>
+
+---
+
+## 📂 Selected Projects
+
+### 🔹 [HireMe](https://github.com/ayushanandhere/HireMe)
+> **A smart hiring platform with real-time interviews, AI resume parsing, and recruiter dashboards.**
+- WebRTC-powered video interviews, structured feedback, and calendar integration
+- Resume parsing using OpenAI API, ATS scoring, and candidate profile evaluation
+- Built with MongoDB, Node.js, Express, React, JWT, Socket.IO, and Docker
+
+---
+
+### 🔹 [Online Judge (AlgoUniversity)](https://github.com/ayushanandhere/oj)
+> **Online coding judge with Dockerized code execution and real-time leaderboards.**
+- Supports user authentication, submissions, problem sets, and scoring
+- Scalable system with load handling and API rate limiting
+- Built with MERN stack + Docker + Redis caching
+
+---
+
+### 🔹 [CacheThreader](https://github.com/ayushanandhere/CacheThreader)
+> **Multi-threaded proxy server built in C with semaphores and LRU caching.**
+- Handles concurrent HTTP requests
+- Improves network responsiveness with caching and semaphore-based synchronization
+
+---
+
+### 🔹 [MindSpring](https://github.com/ayushanandhere/MindSpring)
+> **EdTech platform with course subscriptions and learning management.**
+- Includes Razorpay integration, cloud media handling, and progress tracking
+- Built with MERN, Tailwind CSS, and JWT
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushanandhere&show_icons=true&count_private=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanandhere&layout=compact&langs_count=8" width="48%" />
+</p>
+
+
+---
+
+## 🧾 Certifications
+
+<table>
+  <tr>
+    <td><strong>Oracle Cloud Infrastructure Foundations</strong></td>
+    <td>Credential ID: 0j2021d215034244</td>
+  </tr>
+  <tr>
+    <td><strong>Oracle APEX Cloud Developer Certified</strong></td>
+    <td>Credential ID: 0j2021d215034921</td>
+  </tr>
+  <tr>
+    <td><strong>ICPC Asia West Regionalist Certificate</strong></td>
+    <td><a href="https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272">Meta Hacker Cup Certificate</a></td>
+  </tr>
+</table>
+
+---
+
+## 📬 Let's Connect
+
+- **Email:** ayushanandci008@gmail.com  
+- **LinkedIn:** [linkedin.com/in/ayush-anand-a5675a223](https://linkedin.com/in/ayush-anand-a5675a223)  
+- **GitHub:** [github.com/ayushanandhere](https://github.com/ayushanandhere)  
+
+---
