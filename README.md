@@ -11,19 +11,15 @@
 
 I’m a recent graduate in Computer Science & Engineering (AI & ML) from **Ramaiah Institute of Technology**, passionate about building scalable, real-world web platforms. I specialize in full-stack development, with experience ranging from modern frontend interfaces to secure, scalable backend systems and DevOps practices. I’ve also worked on integrating AI/ML capabilities into production-grade applications.
 
-My recent internship at **Oracle** involved engineering enterprise web solutions using Oracle APEX, optimizing SQL performance, and working within Agile cloud environments. Previously, I contributed as an extern at **AlgoUniversity (Y-Combinator-backed)**, where I engineered a secure online judge platform using Docker and scalable backend architecture.
-
 ---
 
 ## 📊 Key Highlights
 
 | Category | Details |
 |---------|---------|
-| 🧠 **Education** | B.E. in CSE (AI & ML), RIT Bengaluru, CGPA: 9.73/10 |
-| 💻 **Internships** | Oracle (SDE Intern), AlgoUniversity (Software Extern) |
+| 🧠 **Education** | B.E. in CSE (AI & ML), MSRIT Bengaluru, CGPA: 9.7/10 |
 | 🧪 **Projects** | 8+ full-stack and systems projects, including AI-based platforms |
-| 🏆 **Programming** | ICPC Regionalist (2024), Codeforces Expert (Max 1804), CodeChef 4⭐ (Max 1987) |
-| 📂 **Repositories** | 35+ Public Projects & Utilities |
+| 🏆 **Programming** | ICPC Regionalist (2024), Codeforces Expert (Max 1804) |
 | 🔗 **Tech Stack** | MERN, Docker, PostgreSQL, PyTorch, GraphQL, JWT, WebRTC |
 
 ---
@@ -98,25 +94,29 @@ My recent internship at **Oracle** involved engineering enterprise web solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanandhere&layout=compact&langs_count=8" width="48%" />
 </p>
 
-
 ---
 
 ## 🧾 Certifications
 
 <table>
   <tr>
-    <td><strong>Oracle Cloud Infrastructure Foundations</strong></td>
-    <td>Credential ID: 0j2021d215034244</td>
+    <td><strong>Oracle APEX Cloud Developer Certified Professional</strong></td>
+    <td><a href="#">https://catalog-education.oracle.com/pls/certview/sharebadge?id=775D3954C27554C98047E88E05C016BFDD8AF62DF58EE9A1A8E0C0C5AF7DF7AC</a></td>
   </tr>
   <tr>
-    <td><strong>Oracle APEX Cloud Developer Certified</strong></td>
-    <td>Credential ID: 0j2021d215034921</td>
+    <td><strong>ICPCID</strong></td>
+    <td><a href="#">https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF</a></td>
   </tr>
   <tr>
-    <td><strong>ICPC Asia West Regionalist Certificate</strong></td>
-    <td><a href="https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272">Meta Hacker Cup Certificate</a></td>
+    <td><strong>Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</strong></td>
+    <td><a href="#">https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF</a></td>
+  </tr>
+  <tr>
+    <td><strong>Meta Hacker Cup 2024</strong></td>
+    <td><a href="#">https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272</a></td>
   </tr>
 </table>
+
 
 ---
 
