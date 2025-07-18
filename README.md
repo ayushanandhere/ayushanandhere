@@ -33,7 +33,7 @@ I’m a recent graduate in Computer Science & Engineering (AI & ML) from **Ramai
 
 ### 🗄️ Databases & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,jwt,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,nginx" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -104,5 +104,3 @@ I’m a recent graduate in Computer Science & Engineering (AI & ML) from **Ramai
 </p>
 
 ---
-
-> 📌 This profile reflects my dedication to engineering clean, scalable, and intelligent software — driven by curiosity and refined through real-world experience.
