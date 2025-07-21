@@ -13,17 +13,6 @@ I’m a recent graduate in Computer Science & Engineering (AI & ML) from **Ramai
 
 ---
 
-## 📊 Key Highlights
-
-| Category | Details |
-|---------|---------|
-| 🧠 **Education** | B.E. in CSE (AI & ML), MSRIT Bengaluru, CGPA: 9.7/10 |
-| 🧪 **Projects** | 8+ full-stack and systems projects, including AI-based platforms |
-| 🏆 **Programming** | ICPC Regionalist (2024), Codeforces Expert (Max 1804) |
-| 🔗 **Tech Stack** | MERN, Docker, PostgreSQL, PyTorch, GraphQL, JWT, WebRTC |
-
----
-
 ## 🧰 Tools & Technologies
 
 ### 🌐 Web Development
