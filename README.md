@@ -41,7 +41,6 @@ I’m a recent graduate in Computer Science & Engineering (AI & ML) from **Ramai
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushanandhere&show_icons=true&count_private=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanandhere&layout=compact&theme=radical" width="47%" />
 </p>
 
