@@ -78,7 +78,7 @@ I’m a recent graduate in Computer Science & Engineering (AI & ML) from **Ramai
 | Certification | Credential Link |
 |---------------|-----------------|
 | **Oracle APEX Cloud Developer Certified Professional** | [View Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=775D3954C27554C98047E88E05C016BFDD8AF62DF58EE9A1A8E0C0C5AF7DF7AC) |
-| **ICPCID** | [View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF) |
+| **ICPCID** | [View Credential](https://icpc.global/ICPCID/P1UTEG816DHV) |
 | **Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate** | [View Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF) |
 | **Meta Hacker Cup 2024** | [View Credential](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272) |
 
