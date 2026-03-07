@@ -1,110 +1,141 @@
-<div align="center">
+<h1 align="center">Hey, I'm Ayush Anand <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-# Ayush Anand
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=520&lines=Full-Stack+Developer;AI%2FML+Practitioner;Building+Scalable+Web+Platforms;Always+Learning+Something+New" alt="Typing SVG" /></a>
+</p>
 
-**Software Engineer @ Oracle** | Backend & Full-Stack | AI/ML
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-anand-a5675a223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ayushanandci008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ayushanandhere"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ayushanandhere&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-anand-a5675a223/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushanandci008@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushanandhere)
-![Views](https://komarev.com/ghpvc/?username=ayushanandhere&color=0e75b6&style=for-the-badge&label=VISITORS)
+---
 
-</div>
+## About Me
 
-<br/>
+CS grad from **Ramaiah Institute of Technology** (AI & ML), currently at **Oracle**. I build full-stack web platforms end-to-end — from polished frontends to scalable backends with CI/CD and cloud infra. I also bring AI/ML into production apps where it makes a real difference.
 
-```yaml
-name: Ayush Anand
-role: Software Engineer @ Oracle
-location: India
-focus: [ "Backend Systems", "Distributed Architecture", "Full-Stack Development", "Applied AI/ML" ]
-currently_building: Scalable enterprise cloud solutions
-```
+- Working on scalable enterprise solutions at Oracle
+- Interested in systems design, distributed computing, and applied AI
+- Competitive programmer — ICPC regionalist, Meta Hacker Cup participant
 
-<br/>
-
-## What I Do
-
-I design and build **backend systems** that scale — APIs, microservices, cloud infra, and data pipelines. At **Oracle**, I work on enterprise-grade solutions with a focus on reliability and performance.
-
-Beyond backend, I build full-stack products end-to-end: from system design to deployment. My background in AI/ML means I can integrate intelligent features where they add real value — not just buzzwords.
-
-**Competitive Programming:** ICPC Regionalist | Meta Hacker Cup 2024
-
-<br/>
+---
 
 ## Tech Stack
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="33%">
 
-### Backend & Infrastructure
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nginx,docker,aws,linux,py&perline=4" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,sass,bootstrap&perline=5" />
 
 </td>
-<td align="center" width="50%">
+<td valign="top" width="33%">
 
-### Frontend & AI/ML
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,sass&perline=4" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github&perline=4" />
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,graphql,nginx&perline=5" />
+
+</td>
+<td valign="top" width="33%">
+
+**DevOps & AI/ML**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,py,pytorch,tensorflow&perline=5" />
 
 </td>
 </tr>
 </table>
 
+---
+
+## Projects
+
+<details>
+<summary><b>HireMe</b> — Smart Hiring Platform</summary>
 <br/>
 
-## Featured Projects
+> Real-time interviews, AI resume parsing, and recruiter dashboards
 
-| Project | Description | Stack |
-|---|---|---|
-| [**HireMe**](https://github.com/ayushanandhere/HireMe) | Smart hiring platform — WebRTC interviews, AI resume parsing (OpenAI), ATS scoring, recruiter dashboards | `Node.js` `React` `MongoDB` `Socket.IO` `Docker` |
-| [**Online Judge**](https://github.com/ayushanandhere/oj) | Competitive programming judge with Dockerized code execution, real-time leaderboards, and rate limiting | `MERN` `Docker` `Redis` |
-| [**CacheThreader**](https://github.com/ayushanandhere/CacheThreader) | Multi-threaded proxy server with LRU caching and semaphore-based concurrency control | `C` `POSIX Threads` |
-| [**MindSpring**](https://github.com/ayushanandhere/MindSpring) | EdTech platform with payment integration, cloud media handling, and progress tracking | `MERN` `Tailwind` `Razorpay` |
+- WebRTC video interviews with structured feedback and calendar integration
+- Resume parsing via OpenAI API, ATS scoring, and candidate evaluation
+- **Stack:** MongoDB, Node.js, Express, React, JWT, Socket.IO, Docker
 
+[View Repo](https://github.com/ayushanandhere/HireMe)
+
+</details>
+
+<details>
+<summary><b>Online Judge</b> — Competitive Programming Platform</summary>
 <br/>
 
-## GitHub Activity
+> Dockerized code execution with real-time leaderboards
 
-<div align="center">
+- User auth, submissions, problem sets, scoring, and API rate limiting
+- Scalable architecture with Redis caching and load handling
+- **Stack:** MERN, Docker, Redis
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushanandhere&theme=tokyonight&hide_border=true&border_radius=8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanandhere&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="41%" />
+[View Repo](https://github.com/ayushanandhere/oj)
 
+</details>
+
+<details>
+<summary><b>CacheThreader</b> — Multi-threaded Proxy Server</summary>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandhere&theme=tokyo-night&hide_border=true&area=true&radius=8" width="92%"/>
+> High-performance proxy server built in C
 
-</div>
+- Concurrent HTTP request handling with semaphore-based synchronization
+- LRU caching for improved network responsiveness
+- **Stack:** C, POSIX Threads, Semaphores
 
+[View Repo](https://github.com/ayushanandhere/CacheThreader)
+
+</details>
+
+<details>
+<summary><b>MindSpring</b> — EdTech Platform</summary>
 <br/>
 
-## Certifications
+> Course subscriptions and learning management
 
-<div align="center">
+- Razorpay integration, cloud media handling, and progress tracking
+- **Stack:** MERN, Tailwind CSS, JWT
 
-[![Oracle APEX](https://img.shields.io/badge/Oracle_APEX_Cloud_Developer-C74634?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=775D3954C27554C98047E88E05C016BFDD8AF62DF58EE9A1A8E0C0C5AF7DF7AC)
-[![OCI AI](https://img.shields.io/badge/OCI_2024_AI_Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF)
-[![ICPC](https://img.shields.io/badge/ICPC_Regionalist-1976D2?style=for-the-badge&logo=codeforces&logoColor=white)](https://icpc.global/ICPCID/P1UTEG816DHV)
-[![Meta](https://img.shields.io/badge/Meta_Hacker_Cup_2024-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272)
+[View Repo](https://github.com/ayushanandhere/MindSpring)
 
-</div>
-
-<br/>
+</details>
 
 ---
 
-<div align="center">
-<i>Building things that work at scale. Open to collaboration and interesting problems.</i>
-<br/><br/>
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-anand-a5675a223/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushanandhere&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanandhere&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandhere&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+</p>
+
+---
+
+## Certifications
+
+| Certification | Link |
+|---|---|
+| **Oracle APEX Cloud Developer Certified Professional** | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=775D3954C27554C98047E88E05C016BFDD8AF62DF58EE9A1A8E0C0C5AF7DF7AC) |
+| **Oracle Cloud Infrastructure 2024 — AI Foundations Associate** | [View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF) |
+| **ICPC Regionalist** | [View](https://icpc.global/ICPCID/P1UTEG816DHV) |
+| **Meta Hacker Cup 2024** | [View](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272) |
+
+---
+
+<p align="center">
+  <i>Open to interesting collaborations and opportunities — let's connect!</i>
+</p>
