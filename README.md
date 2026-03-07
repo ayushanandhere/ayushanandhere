@@ -1,7 +1,11 @@
 <h1 align="center">Ayush Anand</h1>
 
 <p align="center">
-  Software Engineer at Oracle • Full-Stack Developer • Problem Solver
+  <b>Software Engineer at Oracle</b> • Full-Stack Developer • Problem Solver
+</p>
+
+<p align="center">
+  Building reliable products across frontend, backend, databases, and practical AI-powered workflows
 </p>
 
 <p align="center">
@@ -21,119 +25,105 @@
 
 ## About Me
 
-I am a Software Engineer at **Oracle**, working on enterprise applications and internal platforms with a focus on building reliable, scalable, and user-facing software. My work spans frontend engineering, backend development, database-driven systems, and practical AI-powered features where they add real product value.
+I’m a Software Engineer at **Oracle**, working on enterprise applications and internal platforms with a focus on building reliable, scalable, and user-centric software.
 
-I enjoy working on systems that are not just functional, but production-oriented — software that is maintainable, performant, and useful in real-world workflows.
+My work spans frontend engineering, backend systems, SQL-driven product modules, and practical AI integrations that improve real workflows. I enjoy building software that is not only functional, but production-ready, maintainable, and thoughtfully designed.
 
-### What I focus on
-- Building full-stack applications with clean architecture and solid product thinking
-- Developing scalable backend systems and API-driven platforms
-- Applying AI features in practical workflows rather than using AI as a buzzword
-- Writing software with strong emphasis on usability, reliability, and clarity
+- Currently building and improving enterprise-grade software at **Oracle**
+- Interested in **backend engineering, system design, distributed systems, and applied AI**
+- Strong foundation in **problem solving and competitive programming**
+- Always looking to build products that combine **clean engineering with real user value**
 
 ---
 
-## Experience Snapshot
+## Experience
 
 ### Oracle — Software Engineer
-- Working on enterprise-grade applications and internal platforms
-- Contributing across frontend, backend, SQL-driven modules, and product workflows
-- Solving real engineering problems involving maintainability, performance, and user experience
-- Exploring practical AI integrations for developer productivity and business applications
+- Contributing to enterprise-grade applications and internal platforms
+- Working across frontend, backend, and database-driven product modules
+- Solving engineering problems involving performance, maintainability, usability, and scale
+- Exploring practical AI use cases for developer productivity and business workflows
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,sql" />
+</p>
 
-**Frontend**  
-React • Next.js • TypeScript • JavaScript  
-Tailwind CSS • HTML • CSS • Sass • Bootstrap
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,bootstrap" />
+</p>
 
-</td>
-<td valign="top" width="33%">
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,nginx" />
+</p>
 
-**Backend & Databases**  
-Node.js • Express.js • MongoDB  
-MySQL • PostgreSQL • GraphQL • REST APIs
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman" />
+</p>
 
-</td>
-<td valign="top" width="33%">
-
-**Tools & Systems**  
-Docker • Linux • Git • GitHub  
-Python • PyTorch • TensorFlow • Nginx
-
-</td>
-</tr>
-</table>
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 ### HireMe — Smart Realtime Hiring Platform
-A full-stack hiring platform designed to streamline candidate evaluation and recruiter workflows.
+A full-stack hiring platform designed to streamline recruiter workflows and candidate evaluation.
 
-**Highlights**
-- Built real-time interview workflows using WebRTC and Socket.IO
-- Added AI-powered resume parsing and ATS-style candidate evaluation
+- Built real-time interview workflows using **WebRTC** and **Socket.IO**
+- Added **AI-powered resume parsing** and ATS-style candidate evaluation
 - Integrated scheduling, notifications, and structured interviewer feedback
-- Designed recruiter and candidate flows with practical product usability in mind
+- Focused on practical product flows for both recruiters and candidates
 
-**Tech Stack**  
-MongoDB • Node.js • Express • React • JWT • Socket.IO • Docker
-
+**Tech:** `MongoDB` `Node.js` `Express` `React` `JWT` `Socket.IO` `Docker`  
 [Repository](https://github.com/ayushanandhere/HireMe)
 
 ---
 
 ### Online Judge — Competitive Programming Platform
-A coding platform supporting problem solving, submissions, and scalable evaluation workflows.
+A coding platform supporting secure code execution, submissions, and scalable evaluation workflows.
 
-**Highlights**
-- Implemented secure code execution with Dockerized isolation
-- Built problem management, submissions, authentication, and leaderboard features
-- Improved performance with Redis-backed caching and efficient API flow
-- Focused on platform-style architecture rather than a simple CRUD application
+- Implemented **Docker-based isolated code execution**
+- Built authentication, submissions, problem management, and leaderboard features
+- Improved performance using **Redis caching**
+- Designed it as a platform-style system rather than a simple CRUD app
 
-**Tech Stack**  
-MERN • Docker • Redis
-
+**Tech:** `MERN` `Docker` `Redis`  
 [Repository](https://github.com/ayushanandhere/oj)
 
 ---
 
 ### CacheThreader — Multithreaded Proxy Server
-A systems-focused project exploring concurrency, synchronization, and caching.
+A systems-focused project built to explore concurrency, synchronization, and caching.
 
-**Highlights**
-- Built a multithreaded proxy server in C
-- Handled concurrent HTTP requests with POSIX threads and semaphores
-- Implemented LRU caching to improve response efficiency
-- Strengthened understanding of low-level systems programming concepts
+- Built a **multithreaded proxy server in C**
+- Handled concurrent HTTP requests using **POSIX threads** and **semaphores**
+- Implemented **LRU caching** for better responsiveness
+- Strengthened understanding of systems programming and low-level performance
 
-**Tech Stack**  
-C • POSIX Threads • Semaphores
-
+**Tech:** `C` `POSIX Threads` `Semaphores`  
 [Repository](https://github.com/ayushanandhere/CacheThreader)
 
 ---
 
 ### MindSpring — EdTech Platform
-A learning platform with subscription flows, content delivery, and progress management.
+A learning platform with subscription flows, content delivery, and learner progress tracking.
 
-**Highlights**
-- Built subscription and course-access workflows
-- Integrated payment and media handling capabilities
-- Added learner progress tracking and platform-style user journeys
+- Built course-access and subscription workflows
+- Integrated payment handling and media delivery
+- Added progress tracking and platform-style user journeys
 
-**Tech Stack**  
-MERN • Tailwind CSS • JWT
-
+**Tech:** `MERN` `Tailwind CSS` `JWT`  
 [Repository](https://github.com/ayushanandhere/MindSpring)
 
 ---
@@ -142,7 +132,7 @@ MERN • Tailwind CSS • JWT
 
 - **ICPC Regionalist**
 - **Meta Hacker Cup 2024 Participant**
-- Active competitive programmer with strong interest in problem solving and algorithmic thinking
+- Competitive programmer with strong interest in algorithms and problem solving
 
 ---
 
@@ -171,5 +161,5 @@ MERN • Tailwind CSS • JWT
 ---
 
 <p align="center">
-  Open to software engineering opportunities, impactful collaborations, and interesting product-building conversations.
+  <i>Open to software engineering opportunities, meaningful collaborations, and product-building conversations.</i>
 </p>
