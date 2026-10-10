@@ -1,165 +1,90 @@
-<h1 align="center">Ayush Anand</h1>
+# Ayush Anand
 
-<p align="center">
-  <b>Software Engineer at Oracle</b> • Full-Stack Developer • Problem Solver
-</p>
+**Software Developer 1 at Oracle · Backend & Full-Stack Engineering · Bengaluru, India**
 
-<p align="center">
-  Building reliable products across frontend, backend, databases, and practical AI-powered workflows
-</p>
+[Portfolio](https://ayushanandhere.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayush-anand-a5675a223/) · [Email](mailto:ayushanand8575@gmail.com) · [Codeforces](https://codeforces.com/profile/aa008)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-anand-a5675a223/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayushanandci008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ayushanandhere">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ayushanandhere&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
+I build database-backed applications, APIs, and developer tools. At **Oracle**, I work on enterprise analytics and workflows across application logic, SQL/PL/SQL, and JavaScript. My personal projects extend that work into **Java/Spring Boot**, cloud-hosted AI tools, real-time applications, and concurrent services in Go and C.
 
----
+I’m interested in software engineering roles focused on backend services, data-intensive applications, and developer infrastructure.
 
-## About Me
+## Engineering at Oracle
 
-I’m a Software Engineer at **Oracle**, working on enterprise applications and internal platforms with a focus on building reliable, scalable, and user-centric software.
+- Develop server-side validation and data-processing rules that enforce business constraints and preserve consistency across enterprise workflows.
+- Diagnose routing, notification, and validation defects across SQL queries, application processes, and UI behavior; carry fixes through review and release verification.
+- Integrate weather data into safety-risk forecasting and build KPI and trend dashboards, coordinating data quality, location mapping, and application behavior.
 
-My work spans frontend engineering, backend systems, SQL-driven product modules, and practical AI integrations that improve real workflows. I enjoy building software that is not only functional, but production-ready, maintainable, and thoughtfully designed.
+**Work stack:** SQL, PL/SQL, Oracle Database, JavaScript, Oracle APEX.
 
-- Currently building and improving enterprise-grade software at **Oracle**
-- Interested in **backend engineering, system design, distributed systems, and applied AI**
-- Strong foundation in **problem solving and competitive programming**
-- Always looking to build products that combine **clean engineering with real user value**
+## Selected Projects
 
----
+### [AgentLens](https://github.com/ayushanandhere/AgentLens) — AI Agent Observability & Governance
 
-## Experience
+A Java backend and React dashboard for inspecting agent traces, evaluating policies, and reviewing actions that require operator approval.
 
-### Oracle — Software Engineer
-- Contributing to enterprise-grade applications and internal platforms
-- Working across frontend, backend, and database-driven product modules
-- Solving engineering problems involving performance, maintainability, usability, and scale
-- Exploring practical AI use cases for developer productivity and business workflows
+- Implements policy checks at trace creation, event ingestion, and completion, with approval/rejection workflows and scoped API-key access.
+- Stores traces and violations in PostgreSQL, uses Redis for rate limiting, and publishes audit and lifecycle events through Kafka.
+- Includes OpenTelemetry tracing, Micrometer metrics, Flyway migrations, and JUnit/Mockito tests with Testcontainers integration tests.
 
----
+**Stack:** Java 21, Spring Boot, PostgreSQL, Redis, Kafka, React, TypeScript, Docker Compose.  
+[Code & setup](https://github.com/ayushanandhere/AgentLens) · [Architecture](https://github.com/ayushanandhere/AgentLens/blob/main/docs/architecture.md)
 
-## Tech Stack
+### [DeployLens](https://github.com/ayushanandhere/deploylens) — Deployment Investigation Assistant
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,sql" />
-</p>
+A deployed tool that combines deterministic log analysis with streamed AI guidance, keeping source evidence separate from unconfirmed hypotheses.
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass,bootstrap" />
-</p>
+- Persists conversations, logs, and investigation state with Cloudflare Durable Objects and SQLite; exports findings as Markdown handoffs.
+- Enforces GitHub sign-in and ownership checks across HTTP, WebSocket, and RPC paths, with shared model-request quotas and session expiry.
+- Includes automated tests and GitHub Actions checks for TypeScript, tests, and production builds.
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql,nginx" />
-</p>
+**Stack:** TypeScript, React, Cloudflare Workers, Agents SDK, Workers AI, SQLite, Vitest.  
+[Try the demo](https://deploylens.ayushanandhere.workers.dev/) · [Code & design notes](https://github.com/ayushanandhere/deploylens)
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman" />
-</p>
+### [HireMe](https://github.com/ayushanandhere/HireMe) — Real-Time Hiring Platform
 
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
+An end-to-end application for job applications, screening, interview preparation, video interviews, and recruiter feedback.
 
----
+- Connects candidate and recruiter workflows through shared application state, submission-time profile snapshots, and role-based REST APIs.
+- Supports JWT/Google OAuth authentication, authenticated Socket.IO notifications, and WebRTC video interviews.
+- Integrates resume parsing and contextual interview preparation, while keeping core workflows available without an AI API key.
 
-## Featured Projects
+**Stack:** React, Node.js, Express, MongoDB, Socket.IO, WebRTC, OpenAI API, Docker Compose.  
+[Code & walkthrough](https://github.com/ayushanandhere/HireMe)
 
-### HireMe — Smart Realtime Hiring Platform
-A full-stack hiring platform designed to streamline recruiter workflows and candidate evaluation.
+### More Engineering Projects
 
-- Built real-time interview workflows using **WebRTC** and **Socket.IO**
-- Added **AI-powered resume parsing** and ATS-style candidate evaluation
-- Integrated scheduling, notifications, and structured interviewer feedback
-- Focused on practical product flows for both recruiters and candidates
+| Project | Engineering focus |
+| --- | --- |
+| [GoProbe](https://github.com/ayushanandhere/GoProbe) | HTTP/TCP monitoring in **Go** using per-target goroutines, channels, rolling health history, authenticated API mutations, and graceful shutdown. |
+| [CacheThreader](https://github.com/ayushanandhere/CacheThreader) | Concurrent HTTP proxy in **C** using POSIX sockets, pthreads, semaphores, and a mutex-protected, size-bounded LRU cache. |
+| [Virtual Doctor](https://github.com/ayushanandhere/Virtual-Doctor) | **Python RAG prototype** over PDF documents using LangChain, sentence-transformer embeddings, FAISS, Llama 2, and Chainlit. |
 
-**Tech:** `MongoDB` `Node.js` `Express` `React` `JWT` `Socket.IO` `Docker`  
-[Repository](https://github.com/ayushanandhere/HireMe)
+## Technologies
+
+| Area | Technologies used in my work and projects |
+| --- | --- |
+| Languages | Java, TypeScript, JavaScript, SQL, PL/SQL, Go, C, C++, Python |
+| Backend & data | Spring Boot, Spring Data JPA, Node.js, Express, PostgreSQL, Oracle Database, MongoDB, SQLite, Redis, Kafka |
+| Frontend & real-time | React, HTML/CSS, Tailwind CSS, Socket.IO, WebRTC |
+| Cloud & tooling | Cloudflare Workers, Durable Objects, Docker, Docker Compose, Git, GitHub Actions, Linux |
+| Testing & observability | JUnit, Mockito, Testcontainers, Vitest, OpenTelemetry, Micrometer, Jaeger |
+| Applied AI | Workers AI, OpenAI API, LangChain, FAISS, retrieval-augmented generation |
+
+## Competitive Programming
+
+- **Codeforces Candidate Master** — peak rating **1948** · [aa008](https://codeforces.com/profile/aa008)
+- **CodeChef 4★** — peak rating **1987** · [ci008](https://www.codechef.com/users/ci008)
+- **ICPC 2024 Asia Chennai Onsite Regional** — team rank **86**, BitByeBit · [ICPC profile](https://icpc.global/ICPCID/P1UTEG816DHV)
+- **Meta Hacker Cup 2024** — qualified for **Round 2** · [Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272)
+
+## Education & Certifications
+
+**B.E., Computer Science & Engineering (AI & ML)**  
+Ramaiah Institute of Technology, Bengaluru · Class of 2025 · **CGPA: 9.70/10**
+
+- [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF)
+- [Oracle APEX Cloud Certified Developer Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=775D3954C27554C98047E88E05C016BFDD8AF62DF58EE9A1A8E0C0C5AF7DF7AC)
 
 ---
 
-### Online Judge — Competitive Programming Platform
-A coding platform supporting secure code execution, submissions, and scalable evaluation workflows.
-
-- Implemented **Docker-based isolated code execution**
-- Built authentication, submissions, problem management, and leaderboard features
-- Improved performance using **Redis caching**
-- Designed it as a platform-style system rather than a simple CRUD app
-
-**Tech:** `MERN` `Docker` `Redis`  
-[Repository](https://github.com/ayushanandhere/oj)
-
----
-
-### CacheThreader — Multithreaded Proxy Server
-A systems-focused project built to explore concurrency, synchronization, and caching.
-
-- Built a **multithreaded proxy server in C**
-- Handled concurrent HTTP requests using **POSIX threads** and **semaphores**
-- Implemented **LRU caching** for better responsiveness
-- Strengthened understanding of systems programming and low-level performance
-
-**Tech:** `C` `POSIX Threads` `Semaphores`  
-[Repository](https://github.com/ayushanandhere/CacheThreader)
-
----
-
-### MindSpring — EdTech Platform
-A learning platform with subscription flows, content delivery, and learner progress tracking.
-
-- Built course-access and subscription workflows
-- Integrated payment handling and media delivery
-- Added progress tracking and platform-style user journeys
-
-**Tech:** `MERN` `Tailwind CSS` `JWT`  
-[Repository](https://github.com/ayushanandhere/MindSpring)
-
----
-
-## Achievements
-
-- **ICPC Regionalist**
-- **Meta Hacker Cup 2024 Participant**
-- Competitive programmer with strong interest in algorithms and problem solving
-
----
-
-## Certifications
-
-| Certification | Link |
-|---|---|
-| **Oracle APEX Cloud Developer Certified Professional** | [View](https://catalog-education.oracle.com/pls/certview/sharebadge?id=775D3954C27554C98047E88E05C016BFDD8AF62DF58EE9A1A8E0C0C5AF7DF7AC) |
-| **Oracle Cloud Infrastructure 2024 — AI Foundations Associate** | [View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E7C82B07BA8330494AC0F513B8D9B3C9E4A3F9439B64AB73F1E3224688C658BF) |
-| **ICPC Regionalist** | [View](https://icpc.global/ICPCID/P1UTEG816DHV) |
-| **Meta Hacker Cup 2024** | [View](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/357856790084272) |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushanandhere&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushanandhere&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushanandhere&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to software engineering opportunities, meaningful collaborations, and product-building conversations.</i>
-</p>
+For software engineering opportunities or project discussions, reach me at **[ayushanand8575@gmail.com](mailto:ayushanand8575@gmail.com)** or on **[LinkedIn](https://www.linkedin.com/in/ayush-anand-a5675a223/)**. More about my work: **[ayushanandhere.vercel.app](https://ayushanandhere.vercel.app)**.
