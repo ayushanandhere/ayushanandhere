@@ -2,8 +2,6 @@
 
 **Software Developer 1 at Oracle · Backend & Full-Stack Engineering · Bengaluru, India**
 
-[Portfolio](https://ayushanandhere.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayush-anand-a5675a223/) · [Email](mailto:ayushanand8575@gmail.com) · [Codeforces](https://codeforces.com/profile/aa008)
-
 I build database-backed applications, APIs, and developer tools. At **Oracle**, I work on enterprise analytics and workflows across application logic, SQL/PL/SQL, and JavaScript. My personal projects extend that work into **Java/Spring Boot**, cloud-hosted AI tools, real-time applications, and concurrent services in Go and C.
 
 I’m interested in software engineering roles focused on backend services, data-intensive applications, and developer infrastructure.
